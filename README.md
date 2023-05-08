@@ -1,1 +1,0 @@
-# Sigmoid_Tech_Test
